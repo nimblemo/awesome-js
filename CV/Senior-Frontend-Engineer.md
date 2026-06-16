@@ -1,8 +1,8 @@
-# Егор Михеев — Senior Frontend Engineer (React, Next.js)
+# Егор Михеев — Senior Frontend Engineer / Tech Lead (React, Next.js, React Native)
 
 Нижний Новгород, РФ | удаленно (Казань, Москва, Санкт‑Петербург) | готов к командировкам
 
-Телефон: +7 912 363-92-14 | Email: mikheev.egor@gmail.com | Telegram: https://t.me/egormikheev11
+Телефон: +7 912 363-92-14 | Email: [mikheev.egor@gmail.com](mailto:mikheev.egor@gmail.com) | Telegram: [@egormikheev11](https://t.me/egormikheev11)
 
 ## Цель
 
@@ -11,18 +11,21 @@ Senior Frontend Engineer / Tech Lead (React, TypeScript, Next.js, React Native)
 ## Профессиональное резюме
 
 - 8+ лет коммерческой разработки web/mobile, 17+ лет общего опыта (включая инженерные и процессные роли).
+- Специализация: React, TypeScript, Next.js, React Native; архитектура клиентских приложений, state management (MobX/Redux), надежность, планирование и оценка задач.
 - Домены: FinTech, Web3/crypto, enterprise-системы, высоконагруженные сервисы.
-- Сильные стороны: архитектура клиентских приложений, state management (MobX/Redux), надежность, планирование и оценка задач.
+- Дополнительный стек: Ethers.js, Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Prometheus, Grafana.
+- Активно изучаю и тестирую современные агентные подходы к разработке ПО: Dynamic Agent Skills, Agent Harness, Multiagent orchestration.
 
 ## Ключевые навыки
 
-- Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind, PWA
+- Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind, PWA, Vue
 - Mobile: React Native
 - State management: MobX, Redux, Redux-Saga
 - Web3: Ethers.js, EVM, dApps
 - Backend/Integration: ASP.NET MVC, Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL
 - DevOps/Observability: Docker, Kubernetes, Helm, Prometheus, Grafana, Nginx, Git, GitLab
-- Process: Agile, Kanban, sprint planning, estimation, task decomposition
+- Product/Process: Agile, Kanban, sprint planning, estimation, task decomposition
+- Tools: Figma
 
 ## Опыт работы
 
@@ -30,9 +33,9 @@ Senior Frontend Engineer / Tech Lead (React, TypeScript, Next.js, React Native)
 
 02/2025 – 05/2026
 
-- Разрабатывал и поддерживал финтех-приложения 3 типов: мосты фиат/крипто, административные веб‑панели, аналитические дашборды.
-- Участвовал в планировании спринтов: декомпозиция, оценка трудозатрат, согласование приоритетов с бизнесом.
-- Определял архитектуру web‑приложений с учетом SLA и ограничений продукта; внедрял валидацию данных и форм (Zod).
+- Разрабатывал и поддерживал финтех‑продукты 3 классов: фиат/крипто‑on/off‑ramp, административные панели, аналитические дашборды.
+- Проектировал критичные пользовательские потоки: формы, валидация, обработка ошибок и edge cases; обеспечивал предсказуемое поведение UI (Zod).
+- Определял архитектуру web‑приложений под SLA: устойчивые интеграции с backend/API, изоляция доменных модулей, контроль качества данных на границе.
 
 Технологии: React, MobX, Next.js, Zod, Tailwind
 
@@ -44,6 +47,8 @@ Senior Frontend Engineer / Tech Lead (React, TypeScript, Next.js, React Native)
 - Реализовал встроенный dApp‑браузер и интеграцию с dApps.
 - Развивал экосистему продуктов: lending/compound-like приложения, благотворительные сценарии, Humaniq ID (KYC‑подобный модуль).
 - Руководил фронтенд‑частью: архитектурные решения, ревью, декомпозиция и приоритизация задач.
+- Релизный цикл: 16 версий приложения (GitHub Releases 0.4.0-alpha → 1.7.1) за 09/2021–10/2022; медианный интервал между релизами — 30 дней, быстрые hotfix‑патчи — 1–2 дня.
+- Поставка через PR: 170 merged PR за 09/2021–10/2022 (~2.8 PR/неделю); регулярный delivery cadence с быстрым прохождением ревью и выпуском изменений в релизный поезд.
 
 Технологии: React Native, MobX, Ethers.js
 
@@ -83,8 +88,8 @@ Senior Frontend Engineer / Tech Lead (React, TypeScript, Next.js, React Native)
 
 - Преподавал JavaScript на факультете дополнительного образования.
 - Адаптировал англоязычные курсы на русский язык и оформил учебные материалы в открытых репозиториях:
-  - https://github.com/nimblemo/js-base-course
-  - https://github.com/nimblemo/js-extend-course
+  - <https://github.com/nimblemo/js-base-course>
+  - <https://github.com/nimblemo/js-extend-course>
 
 ### Артинвест 52 — Fullstack Engineer (WebRTC)
 
@@ -111,7 +116,7 @@ Senior Frontend Engineer / Tech Lead (React, TypeScript, Next.js, React Native)
 
 АО «Монди СЛПК» — инженер по оптимизации (03/2010 – 12/2010)
 
-- Участие в проекте оптимизации производственной деятельности (совместно с консалтингом).
+- Участие в проекте оптимизации производственной деятельности (по принципам MC'Kinsey).
 
 ООО «Финлеском» (филиал) — инженер‑механик (06/2008 – 03/2010)
 
@@ -119,8 +124,8 @@ Senior Frontend Engineer / Tech Lead (React, TypeScript, Next.js, React Native)
 
 ## Образование
 
-- ННГУ им. Н.И. Лобачевского, радиофизический факультет, магистратура (незавершенная), 2018
-- ННГУ им. Н.И. Лобачевского, профпереподготовка: «Информационные системы» (профессиональное программирование), 2017
+- ННГУ им. Н.И. Лобачевского, радиофизический факультет, «Биоинженерия и биоинформатика», 2018 (неоконченное высшее)
+- ННГУ им. Н.И. Лобачевского, «Профессиональное программирование», 2017
 - Вятская государственная сельскохозяйственная академия, «Автомобили и автомобильное хозяйство», 2010
 
 ## Курсы
@@ -150,4 +155,8 @@ Senior Frontend Engineer / Tech Lead (React, TypeScript, Next.js, React Native)
 ## Дополнительно
 
 - Тип занятости: полная
-- Ожидаемая зарплата: 250 000 ₽ net
+- Ожидаемая зарплата: 330 000 ₽ на руки
+- Командировки: готов
+- Гражданство: Россия
+- Разрешение на работу: Россия
+- Водительские права: категория B (есть автомобиль)
