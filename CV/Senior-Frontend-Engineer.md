@@ -1,12 +1,10 @@
-# Егор Михеев — Senior Frontend Engineer / Tech Lead (React, Next.js, React Native)
+# Егор Михеев — Senior Frontend Engineer
 
-Нижний Новгород, РФ | удаленно (Казань, Москва, Санкт‑Петербург) | готов к командировкам
-
-Телефон: +7 912 363-92-14 | Email: [mikheev.egor@gmail.com](mailto:mikheev.egor@gmail.com) | Telegram: [@egormikheev11](https://t.me/egormikheev11)
+Телефон: +7 912 363-92-14 | Email: <mikheev.egor@gmail.com> | Telegram: [@egormikheev11](https://t.me/egormikheev11)
 
 ## Цель
 
-Senior Frontend Engineer / Tech Lead (React, TypeScript, Next.js, React Native)
+Senior Frontend Engineer / Tech Lead&#x20;
 
 ## Профессиональное резюме
 
@@ -48,7 +46,7 @@ Senior Frontend Engineer / Tech Lead (React, TypeScript, Next.js, React Native)
 - Развивал экосистему продуктов: lending/compound-like приложения, благотворительные сценарии, Humaniq ID (KYC‑подобный модуль).
 - Руководил фронтенд‑частью: архитектурные решения, ревью, декомпозиция и приоритизация задач.
 - Релизный цикл: 16 версий приложения (GitHub Releases 0.4.0-alpha → 1.7.1) за 09/2021–10/2022; медианный интервал между релизами — 30 дней, быстрые hotfix‑патчи — 1–2 дня.
-- Поставка через PR: 170 merged PR за 09/2021–10/2022 (~2.8 PR/неделю); регулярный delivery cadence с быстрым прохождением ревью и выпуском изменений в релизный поезд.
+- Поставка через PR: 170 merged PR за 09/2021–10/2022 (\~2.8 PR/неделю); регулярный delivery cadence с быстрым прохождением ревью и выпуском изменений в релизный поезд.
 
 Технологии: React Native, MobX, Ethers.js
 
@@ -157,6 +155,5 @@ Senior Frontend Engineer / Tech Lead (React, TypeScript, Next.js, React Native)
 - Тип занятости: полная
 - Ожидаемая зарплата: 330 000 ₽ на руки
 - Командировки: готов
-- Гражданство: Россия
-- Разрешение на работу: Россия
 - Водительские права: категория B (есть автомобиль)
+
