@@ -8,31 +8,14 @@ Senior Frontend Engineer
 - Expected salary: 3800 USD/month
 - Employment: full-time
 
-## LinkedIn Headline
-
-Senior Frontend Engineer (React/TypeScript/Next.js) | React Native | FinTech & Web3 | Frontend Architecture, Reliability, State Management (MobX/Redux)
-
-## LinkedIn About
-
-I build reliable, high-velocity frontend products in React/TypeScript — from fintech user flows (forms, validation, edge cases) to Web3 wallets (EVM, transactions, signing) and complex admin/analytics dashboards.
-
-I focus on frontend architecture, state management (MobX/Redux), and predictable delivery: breaking down ambiguous problems into shippable increments, estimating realistically, and keeping quality high under SLA constraints.
-
-Recent highlights include:
-- FinTech products across on/off-ramp, admin panels, and analytics dashboards (React, Next.js, MobX, Zod, Tailwind)
-- Non-custodial EVM wallet + embedded dApp browser + ecosystem modules (React Native, MobX, Ethers.js)
-- Enterprise UI: modular boundaries, resilient API integrations, and data-quality control at system edges
-
-Core keywords: React, TypeScript, Next.js, React Native, MobX, Redux, Zod, Tailwind, FinTech, Web3, EVM, Ethers.js, dApps, Wallets, Frontend Architecture, Reliability, Observability.
-
 ## Professional Summary
 
 - Senior Frontend Engineer specializing in React/TypeScript/Next.js and React Native, building reliable fintech and Web3 products.
-- 8+ years of commercial web/mobile development, 17+ years of overall experience (including engineering and process roles).
-- Strengths: frontend architecture, state management (MobX/Redux), forms/validation (Zod), error handling, reliability, and observability-friendly UI.
+- 8+ years of commercial web and mobile development, 17+ years of total experience, including engineering and process roles.
+- Strengths: client application architecture, state management, complex UI implementation, forms and validation, and reliability.
 - Domains: FinTech (on/off-ramp, admin panels, analytics), Web3/crypto (EVM wallets, dApp integrations), enterprise systems, high-load services.
-- Additional stack: Ethers.js, Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Prometheus, Grafana.
 - Actively exploring and testing AI-driven development: Dynamic Agent Skills, Agent Harness, multi-agent orchestration.
+- Additional stack: Ethers.js, Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Prometheus, Grafana.
 
 ## Key Skills
 
@@ -50,8 +33,10 @@ Core keywords: React, TypeScript, Next.js, React Native, MobX, Redux, Zod, Tailw
 02/2025 – 05/2026
 
 - Developed and maintained fintech products across fiat/crypto on/off-ramp flows, admin panels, and analytics dashboards.
-- Delivered critical user flows with robust validation and error handling, covering edge cases and degraded scenarios.
-- Defined web application architecture under SLA: resilient backend/API integrations, isolation of domain modules, and data-quality controls at boundaries.
+- Designed critical user flows covering onboarding, KYC, transactions, analytics, and list/filtering experiences.
+- Defined web application architecture to meet SLA requirements: resilient backend/API integrations, isolation of domain modules, and data-quality controls at system boundaries.
+- Evolved a white-label solution: UI customization and support for multiple client brands from a single Git repository.
+- Built responsive screens and components from Figma designs.
 
 Technologies: React, MobX, Next.js, Zod, Tailwind
 
@@ -63,7 +48,8 @@ Technologies: React, MobX, Next.js, Zod, Tailwind
 - Implemented an embedded dApp browser and integrations with dApps.
 - Developed ecosystem modules: lending/compound-like apps, charity scenarios, Humaniq ID (a KYC-like module).
 - Led frontend delivery: architectural decisions, code review, task decomposition, prioritization, and release readiness.
-- Delivered consistently via PRs: 170 merged PRs in 09/2021–10/2022 (~2.8 PR/week), with fast reviews and steady release-train shipping.
+- Delivered consistently via PRs (~2.8 PRs/week), with fast review turnaround and steady release-train delivery.
+- Release cadence: median interval between releases was 30 days; hotfix patches were delivered within 1-2 days.
 
 Technologies: React Native, MobX, Ethers.js
 

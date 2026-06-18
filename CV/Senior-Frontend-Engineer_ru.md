@@ -9,32 +9,15 @@ Senior Frontend Engineer
 - Ожидаемая зарплата: 330 000 ₽ на руки
 - Тип занятости: полная
 
-## LinkedIn Headline
-
-Senior Frontend Engineer (React/TypeScript/Next.js) | React Native | FinTech & Web3 | Frontend Architecture, Reliability, State Management (MobX/Redux)
-
-## LinkedIn About
-
-Делаю надежные, быстро развивающиеся frontend‑продукты на React/TypeScript — от финтех‑флоу (формы, валидация, edge cases) до Web3‑кошельков (EVM, транзакции, подпись) и сложных admin/analytics дашбордов.
-
-Фокус: фронтенд‑архитектура, state management (MobX/Redux) и предсказуемая поставка — декомпозиция «туманных» задач до релизных инкрементов, реалистичная оценка, качество и устойчивость под SLA.
-
-Из недавнего:
-
-- FinTech продукты: on/off‑ramp, админ‑панели, аналитические дашборды (React, Next.js, MobX, Zod, Tailwind)
-- Некастодиальный EVM‑кошелек + встроенный dApp‑браузер + модули экосистемы (React Native, MobX, Ethers.js)
-- Enterprise UI: модульные границы, устойчивые интеграции с API и контроль качества данных на стыке систем
-
-Ключевые слова: React, TypeScript, Next.js, React Native, MobX, Redux, Zod, Tailwind, FinTech, Web3, EVM, Ethers.js, dApps, Wallets, Frontend Architecture, Reliability, Observability.
-
 ## Профессиональное резюме
 
 - Senior Frontend Engineer: React/TypeScript/Next.js и React Native; надежные финтех и Web3 продукты.
 - 8+ лет коммерческой разработки web/mobile, 17+ лет общего опыта (включая инженерные и процессные роли).
 - Сильные стороны: архитектура клиентских приложений, state management, сложная верстка, формы/валидация, надежность
 - Домены: FinTech (on/off‑ramp, админ‑панели, аналитика), Web3/crypto (EVM‑кошельки, интеграции dApps), enterprise‑системы, высоконагруженные сервисы.
-- Дополнительный стек: Ethers.js, Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Prometheus, Grafana.
 - Активно изучаю и тестирую AI Driven development: Dynamic Agent Skills, Agent Harness, Multiagent orchestration.
+- Дополнительный стек: Ethers.js, Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Prometheus, Grafana.
+
 
 ## Ключевые навыки
 
@@ -51,9 +34,11 @@ Senior Frontend Engineer (React/TypeScript/Next.js) | React Native | FinTech & W
 
 02/2025 – 05/2026
 
-- Разрабатывал и поддерживал финтех‑продукты: фиат/крипто‑on/off‑ramp, административные панели и аналитические дашборды.
-- Делал критичные пользовательские потоки с устойчивой валидацией и обработкой ошибок, включая edge cases и деградацию.
+- Разрабатывал и поддерживал финтех‑продукты: фиат/крипто‑on/off‑ramp, административные панели и аналитические дашборды, лендинги.
+- Проектировал критичные пользовательские потоки: онбординг, KYC, транзакции, аналитика, списки/фильтрация
 - Определял архитектуру web‑приложений под SLA: устойчивые интеграции с backend/API, изоляция доменных модулей и контроль качества данных на границе.
+- Развивал White Label решение: кастомизация UI, поддержка нескольких клиентских брендов через единый Git репозиторий.
+- Верстал по Figma макетам отзывчивые экраны и компоненты.
 
 Технологии: React, MobX, Next.js, Zod, Tailwind
 
@@ -65,7 +50,8 @@ Senior Frontend Engineer (React/TypeScript/Next.js) | React Native | FinTech & W
 - Реализовал встроенный dApp‑браузер и интеграцию с dApps.
 - Развивал экосистему продуктов: lending/compound-like приложения, благотворительные сценарии, Humaniq ID (KYC‑подобный модуль).
 - Руководил фронтенд‑частью: архитектурные решения, code review, декомпозиция, приоритизация и готовность к релизам.
-- Поставка через PR: 170 merged PR за 09/2021–10/2022 (\~2.8 PR/неделю) с быстрым прохождением ревью и регулярной поставкой в релизный поезд.
+- Поставка через PR: (~2.8 PR/неделю) с быстрым прохождением ревью и регулярной поставкой в релизный поезд.
+- Релизный цикл: медианный интервал между релизами - 30 дней, быстрые hotfix-патчи - 1-2 дня.
 
 Технологии: React Native, MobX, Ethers.js
 
