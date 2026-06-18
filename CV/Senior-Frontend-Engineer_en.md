@@ -13,11 +13,10 @@ Senior Frontend Engineer
 
 - Senior Frontend Engineer with 8+ years of commercial web/mobile development in React, Next.js, TypeScript, and React Native.
 - Primary focus is web frontend: React/Next.js client applications, UI architecture, state management, complex interfaces, forms and validation, and backend/API integrations.
-- Additional strong competency: mobile development with React Native for production applications with complex user flows.
+- Mobile development with React Native for production applications with complex user flows.
 - Domain focus: FinTech (fiat/crypto on/off-ramp, KYC, admin panels, analytics dashboards) and Web3/crypto (EVM wallets, dApp integrations, non-custodial flows).
 - 17+ years of total experience across engineering, process, and lead roles, combining delivery, quality, and technical leadership.
 - Actively exploring and applying AI-driven development: Dynamic Agent Skills, Agent Harness, multi-agent orchestration.
-- Additional stack: Ethers.js, Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Prometheus, Grafana.
 
 ## Key Skills
 
@@ -25,7 +24,6 @@ Senior Frontend Engineer
 - Frontend Engineering: client application architecture, UI component systems, state management, complex interfaces, forms and validation, REST API integration, reusable components, Web Performance, Accessibility (a11y)
 - Mobile: React Native
 - FinTech / Web3: Ethers.js, EVM, dApps, non-custodial wallets, KYC, on/off-ramp
-- Backend / Infra: Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Nginx, Prometheus, Grafana, Git, GitLab
 - Process & Tools: Agile, Kanban, sprint planning, estimation, task decomposition, code review, technical leadership, Figma
 
 ## Experience

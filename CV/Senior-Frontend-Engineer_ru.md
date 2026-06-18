@@ -12,12 +12,11 @@ Senior Frontend Engineer
 ## Профессиональное резюме
 
 - Senior Frontend Engineer с 8+ годами коммерческой web/mobile-разработки на React, Next.js, TypeScript и React Native.
-- Основная специализация - web frontend: клиентские приложения на React/Next.js, архитектура UI, state management, сложные интерфейсы, формы и валидация, интеграции с backend/API.
-- Дополнительная сильная компетенция - мобильная разработка на React Native для production-приложений со сложными пользовательскими сценариями.
+- Основная специализация - web frontend: клиентские приложения на React/Next.js, архитектура, UI, state management, сложные интерфейсы, формы и валидация, интеграции с backend/API.
+- Мобильная разработка на React Native для production-приложений со сложными пользовательскими сценариями.
 - Доменные зоны: FinTech (fiat/crypto on/off-ramp, KYC, админ-панели, аналитические дашборды) и Web3/crypto (EVM-кошельки, dApp integrations, non-custodial flows).
 - 17+ лет общего опыта, включая инженерные, процессные и lead-роли; умею сочетать delivery, качество и техническое лидерство.
 - Активно изучаю и применяю AI-driven development: Dynamic Agent Skills, Agent Harness, multi-agent orchestration.
-- Дополнительный стек: Ethers.js, Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Prometheus, Grafana.
 
 ## Ключевые навыки
 
@@ -25,7 +24,6 @@ Senior Frontend Engineer
 - Frontend Engineering: архитектура клиентских приложений, UI component systems, state management, сложные интерфейсы, формы и валидация, REST API integration, reusable components, Web Performance, Accessibility (a11y)
 - Mobile: React Native
 - FinTech / Web3: Ethers.js, EVM, dApps, non-custodial wallets, KYC, on/off-ramp
-- Backend / Infra: Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Nginx, Prometheus, Grafana, Git, GitLab
 - Process & Tools: Agile, Kanban, sprint planning, estimation, task decomposition, code review, technical leadership, Figma
 
 ## Опыт работы
