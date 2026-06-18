@@ -2,31 +2,30 @@
 
 Телефон: +7 912 363-92-14 | Email: <mikheev.egor@gmail.com> | Telegram: [@egormikheev11](https://t.me/egormikheev11) | LinkedIn: <https://www.linkedin.com/in/egor-mikheev-66b0a3124/>
 
-## Цель
+## Целевая позиция
 
 Senior Frontend Engineer
 
 - Ожидаемая зарплата: 330 000 ₽ на руки
-- Тип занятости: полная
+- Тип занятости: полная занятость
 
 ## Профессиональное резюме
 
-- Senior Frontend Engineer: React/TypeScript/Next.js и React Native; надежные финтех и Web3 продукты.
-- 8+ лет коммерческой разработки web/mobile, 17+ лет общего опыта (включая инженерные и процессные роли).
-- Сильные стороны: архитектура клиентских приложений, state management, сложная верстка, формы/валидация, надежность
-- Домены: FinTech (on/off‑ramp, админ‑панели, аналитика), Web3/crypto (EVM‑кошельки, интеграции dApps), enterprise‑системы, высоконагруженные сервисы.
-- Активно изучаю и тестирую AI Driven development: Dynamic Agent Skills, Agent Harness, Multiagent orchestration.
+- Senior Frontend Engineer с 8+ годами коммерческой web/mobile-разработки на React, Next.js, TypeScript и React Native.
+- Проектирую клиентские приложения и UI-системы: архитектура, state management, сложные интерфейсы, формы и валидация, надежные интеграции с backend/API.
+- Доменные зоны: FinTech (fiat/crypto on/off-ramp, KYC, админ-панели, аналитические дашборды) и Web3/crypto (EVM-кошельки, dApp integrations, non-custodial flows).
+- 17+ лет общего опыта, включая инженерные, процессные и lead-роли; умею сочетать delivery, качество и техническое лидерство.
+- Активно изучаю и применяю AI-driven development: Dynamic Agent Skills, Agent Harness, multi-agent orchestration.
 - Дополнительный стек: Ethers.js, Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Prometheus, Grafana.
-
 
 ## Ключевые навыки
 
-- Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Zod, PWA, Web Performance, Accessibility (a11y), Vue, MobX, Redux, Redux-Saga
+- Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Zod, MobX, Redux, Redux-Saga, PWA, Web Performance, Accessibility (a11y), Vue
 - Mobile: React Native
-- Web3: Ethers.js, EVM, dApps, non-custodial wallets
-- DevOps/Observability: Docker, Kubernetes, Helm, Prometheus, Grafana, Nginx, Git, GitLab
-- Product/Process: Agile, Kanban, sprint planning, estimation, task decomposition, code review, technical leadership
-- Tools: Figma
+- Architecture & Product: архитектура клиентских приложений, state management, UI component systems, формы и валидация, REST API integration, white-label решения, аналитические интерфейсы, code review, technical leadership
+- FinTech / Web3: Ethers.js, EVM, dApps, non-custodial wallets, KYC, on/off-ramp
+- Backend / Infra: Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Nginx, Prometheus, Grafana, Git, GitLab
+- Process & Tools: Agile, Kanban, sprint planning, estimation, task decomposition, Figma
 
 ## Опыт работы
 
@@ -34,11 +33,11 @@ Senior Frontend Engineer
 
 02/2025 – 05/2026
 
-- Разрабатывал и поддерживал финтех‑продукты: фиат/крипто‑on/off‑ramp, административные панели и аналитические дашборды, лендинги.
-- Проектировал критичные пользовательские потоки: онбординг, KYC, транзакции, аналитика, списки/фильтрация
-- Определял архитектуру web‑приложений под SLA: устойчивые интеграции с backend/API, изоляция доменных модулей и контроль качества данных на границе.
-- Развивал White Label решение: кастомизация UI, поддержка нескольких клиентских брендов через единый Git репозиторий.
-- Верстал по Figma макетам отзывчивые экраны и компоненты.
+- Разрабатывал и поддерживал финтех-продукты для fiat/crypto on/off-ramp, административных панелей, аналитических дашбордов и лендингов.
+- Проектировал критичные пользовательские потоки: onboarding, KYC, транзакции, аналитика, списки и фильтрация.
+- Определял архитектуру web-приложений под SLA: устойчивые интеграции с backend/API, изоляция доменных модулей и контроль качества данных на границе.
+- Развивал white-label решение: кастомизация UI и поддержка нескольких клиентских брендов через единый Git-репозиторий.
+- Преобразовывал Figma-макеты в адаптивные экраны и переиспользуемые UI-компоненты.
 
 Технологии: React, MobX, Next.js, Zod, Tailwind
 
@@ -46,12 +45,12 @@ Senior Frontend Engineer
 
 05/2021 – 11/2024
 
-- Спроектировал и развивал некастодиальный криптокошелек для EVM‑совместимых сетей: транзакции, подпись и отображение статусов.
-- Реализовал встроенный dApp‑браузер и интеграцию с dApps.
-- Развивал экосистему продуктов: lending/compound-like приложения, благотворительные сценарии, Humaniq ID (KYC‑подобный модуль).
-- Руководил фронтенд‑частью: архитектурные решения, code review, декомпозиция, приоритизация и готовность к релизам.
-- Поставка через PR: (~2.8 PR/неделю) с быстрым прохождением ревью и регулярной поставкой в релизный поезд.
-- Релизный цикл: медианный интервал между релизами - 30 дней, быстрые hotfix-патчи - 1-2 дня.
+- Спроектировал и развивал некастодиальный криптокошелек для EVM-совместимых сетей: транзакции, подпись и отображение статусов.
+- Реализовал встроенный dApp-браузер и интеграцию с dApps.
+- Развивал продуктовую экосистему: lending/compound-like приложения, благотворительные сценарии и Humaniq ID как KYC-подобный модуль.
+- Руководил фронтенд-направлением: архитектурные решения, code review, декомпозиция задач, приоритизация и готовность к релизам.
+- Поддерживал стабильную поставку через PR: ~2.8 PR в неделю с быстрым прохождением ревью и регулярным попаданием в релизный поезд.
+- Обеспечивал предсказуемый релизный цикл: медианный интервал между релизами 30 дней, hotfix-патчи - 1-2 дня.
 
 Технологии: React Native, MobX, Ethers.js
 
@@ -59,9 +58,9 @@ Senior Frontend Engineer
 
 08/2019 – 04/2021 | Нижний Новгород
 
-- Спроектировал фронтенд‑архитектуру системы управления строительными проектами на базе BIM‑моделей.
-- Реализовал древовидный UI для управления BIM‑моделями и унифицированные модели фильтрации данных.
-- Внедрил PWA‑паттерны: офлайн‑кэширование и сценарии graceful degradation.
+- Спроектировал фронтенд-архитектуру системы управления строительными проектами на базе BIM-моделей.
+- Реализовал древовидный UI для управления BIM-моделями и унифицированные модели фильтрации сложных данных.
+- Внедрил PWA-паттерны: офлайн-кэширование и сценарии graceful degradation для более устойчивой работы приложения.
 - Планировал спринты, распределял нагрузку и лидировал выполнение технически сложных задач.
 
 Технологии: React, MobX, PWA
@@ -70,8 +69,8 @@ Senior Frontend Engineer
 
 12/2018 – 07/2019 | Нижний Новгород
 
-- Развивал социальную сеть на базе блокчейн‑технологий.
-- Провел рефакторинг state management: миграция с Redux на MobX, что снизило количество регрессий и ускорило выпуск фич.
+- Развивал социальную сеть на базе блокчейн-технологий.
+- Провел рефакторинг state management: миграция с Redux на MobX, что снизило количество регрессий и ускорило выпуск новых фич.
 
 Технологии: TypeScript, React, MobX, Redux
 
@@ -80,8 +79,8 @@ Senior Frontend Engineer
 12/2017 – 12/2018
 
 - Разрабатывал UI и сложную фильтрацию для системы госзакупок с использованием Elasticsearch и painless.
-- Участвовал в переезде с монолита на микросервисную архитектуру.
-- Реализовал orchestration цепочек REST‑запросов через saga‑подход.
+- Участвовал в переходе с монолита на микросервисную архитектуру.
+- Реализовал orchestration цепочек REST-запросов через saga-подход.
 - Реализовывал сложные транзакционные сценарии через процедуры MSSQL.
 
 Технологии: React, Redux, Redux-Saga; ASP.NET MVC, Node.js, Python, Golang; MSSQL, RabbitMQ, Elasticsearch, Redis; Docker, Kubernetes, Helm, Prometheus, Grafana, Git, GitLab
@@ -99,7 +98,7 @@ Senior Frontend Engineer
 
 04/2017 – 12/2017
 
-- Исследовал и внедрял WebRTC/стриминговые решения, интегрировал серверные компоненты.
+- Исследовал и внедрял WebRTC/streaming-решения, интегрировал серверные компоненты.
 
 Технологии: Janus, WebRTC, Nginx, SignalR, JavaScript, MSSQL
 
@@ -107,7 +106,7 @@ Senior Frontend Engineer
 
 07/2015 – 08/2016
 
-- Разрабатывал и поддерживал веб‑приложения и хостинг‑инфраструктуру.
+- Разрабатывал и поддерживал веб-приложения и хостинг-инфраструктуру.
 
 Технологии: PHP MVC, JavaScript, HTML, CSS, LESS, AJAX
 
@@ -160,4 +159,3 @@ Senior Frontend Engineer
 
 - Командировки: готов
 - Водительские права: категория B (есть автомобиль)
-

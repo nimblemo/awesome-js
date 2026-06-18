@@ -5,26 +5,27 @@ Phone: +7 912 363-92-14 | Email: <mikheev.egor@gmail.com> | Telegram: [@egormikh
 ## Target Role
 
 Senior Frontend Engineer
+
 - Expected salary: 3800 USD/month
 - Employment: full-time
 
 ## Professional Summary
 
-- Senior Frontend Engineer specializing in React/TypeScript/Next.js and React Native, building reliable fintech and Web3 products.
-- 8+ years of commercial web and mobile development, 17+ years of total experience, including engineering and process roles.
-- Strengths: client application architecture, state management, complex UI implementation, forms and validation, and reliability.
-- Domains: FinTech (on/off-ramp, admin panels, analytics), Web3/crypto (EVM wallets, dApp integrations), enterprise systems, high-load services.
-- Actively exploring and testing AI-driven development: Dynamic Agent Skills, Agent Harness, multi-agent orchestration.
+- Senior Frontend Engineer with 8+ years of commercial web/mobile development in React, Next.js, TypeScript, and React Native.
+- Focus on client applications and UI systems: architecture, state management, complex interfaces, forms and validation, and reliable backend/API integrations.
+- Domain focus: FinTech (fiat/crypto on/off-ramp, KYC, admin panels, analytics dashboards) and Web3/crypto (EVM wallets, dApp integrations, non-custodial flows).
+- 17+ years of total experience across engineering, process, and lead roles, combining delivery, quality, and technical leadership.
+- Actively exploring and applying AI-driven development: Dynamic Agent Skills, Agent Harness, multi-agent orchestration.
 - Additional stack: Ethers.js, Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Prometheus, Grafana.
 
 ## Key Skills
 
-- Frontend: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Zod, PWA, Web Performance, Accessibility (a11y), Vue, MobX, Redux, Redux-Saga
+- Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Zod, MobX, Redux, Redux-Saga, PWA, Web Performance, Accessibility (a11y), Vue
 - Mobile: React Native
-- Web3: Ethers.js, EVM, dApps, non-custodial wallets
-- DevOps/Observability: Docker, Kubernetes, Helm, Prometheus, Grafana, Nginx, Git, GitLab
-- Product/Process: Agile, Kanban, sprint planning, estimation, task decomposition, code review, technical leadership
-- Tools: Figma
+- Architecture & Product: client application architecture, state management, UI component systems, forms and validation, REST API integration, white-label solutions, analytics interfaces, code review, technical leadership
+- FinTech / Web3: Ethers.js, EVM, dApps, non-custodial wallets, KYC, on/off-ramp
+- Backend / Infra: Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Nginx, Prometheus, Grafana, Git, GitLab
+- Process & Tools: Agile, Kanban, sprint planning, estimation, task decomposition, Figma
 
 ## Experience
 
@@ -32,11 +33,11 @@ Senior Frontend Engineer
 
 02/2025 – 05/2026
 
-- Developed and maintained fintech products across fiat/crypto on/off-ramp flows, admin panels, and analytics dashboards.
-- Designed critical user flows covering onboarding, KYC, transactions, analytics, and list/filtering experiences.
+- Developed and maintained fintech products for fiat/crypto on-off ramp flows, admin panels, analytics dashboards, and landing pages.
+- Designed critical user flows covering onboarding, KYC, transactions, analytics, lists, and filtering.
 - Defined web application architecture to meet SLA requirements: resilient backend/API integrations, isolation of domain modules, and data-quality controls at system boundaries.
-- Evolved a white-label solution: UI customization and support for multiple client brands from a single Git repository.
-- Built responsive screens and components from Figma designs.
+- Evolved a white-label solution with UI customization and support for multiple client brands from a single Git repository.
+- Turned Figma designs into responsive screens and reusable UI components.
 
 Technologies: React, MobX, Next.js, Zod, Tailwind
 
@@ -44,12 +45,12 @@ Technologies: React, MobX, Next.js, Zod, Tailwind
 
 05/2021 – 11/2024
 
-- Designed and evolved a non-custodial crypto wallet for EVM-compatible networks: transactions, signing, and status rendering.
+- Designed and evolved a non-custodial crypto wallet for EVM-compatible networks, covering transactions, signing, and status rendering.
 - Implemented an embedded dApp browser and integrations with dApps.
-- Developed ecosystem modules: lending/compound-like apps, charity scenarios, Humaniq ID (a KYC-like module).
-- Led frontend delivery: architectural decisions, code review, task decomposition, prioritization, and release readiness.
-- Delivered consistently via PRs (~2.8 PRs/week), with fast review turnaround and steady release-train delivery.
-- Release cadence: median interval between releases was 30 days; hotfix patches were delivered within 1-2 days.
+- Expanded the product ecosystem with lending/compound-like applications, charity scenarios, and Humaniq ID as a KYC-like module.
+- Led the frontend direction: architectural decisions, code review, task decomposition, prioritization, and release readiness.
+- Maintained steady delivery through PRs at ~2.8 PRs per week, with fast review turnaround and regular inclusion in the release train.
+- Kept a predictable release cadence: median interval between releases was 30 days, while hotfix patches were delivered within 1-2 days.
 
 Technologies: React Native, MobX, Ethers.js
 
@@ -58,8 +59,8 @@ Technologies: React Native, MobX, Ethers.js
 08/2019 – 04/2021 | Nizhny Novgorod
 
 - Designed frontend architecture for a BIM-based construction project management system.
-- Implemented a tree-like UI for BIM model management and unified data filtering models.
-- Introduced PWA patterns: offline caching and graceful degradation scenarios.
+- Implemented a tree-based UI for BIM model management and unified filtering models for complex data.
+- Introduced PWA patterns, including offline caching and graceful degradation, to improve application resilience.
 - Planned sprints, distributed workload, and led delivery of technically complex tasks.
 
 Technologies: React, MobX, PWA
@@ -68,8 +69,8 @@ Technologies: React, MobX, PWA
 
 12/2018 – 07/2019 | Nizhny Novgorod
 
-- Developed a social network based on blockchain technologies.
-- Refactored state management by migrating from Redux to MobX, reducing regressions and speeding up feature delivery.
+- Developed a blockchain-based social network.
+- Refactored state management by migrating from Redux to MobX, reducing regressions and speeding up new feature delivery.
 
 Technologies: TypeScript, React, MobX, Redux
 
@@ -78,7 +79,7 @@ Technologies: TypeScript, React, MobX, Redux
 12/2017 – 12/2018
 
 - Built UI and complex filtering for a public procurement system using Elasticsearch and painless.
-- Participated in migrating from a monolith to a microservices architecture.
+- Participated in the transition from a monolith to a microservices architecture.
 - Implemented orchestration of REST request chains via a saga-based approach.
 - Implemented complex transactional flows via MSSQL stored procedures.
 
