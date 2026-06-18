@@ -12,7 +12,8 @@ Senior Frontend Engineer
 ## Professional Summary
 
 - Senior Frontend Engineer with 8+ years of commercial web/mobile development in React, Next.js, TypeScript, and React Native.
-- Focus on client applications and UI systems: architecture, state management, complex interfaces, forms and validation, and reliable backend/API integrations.
+- Primary focus is web frontend: React/Next.js client applications, UI architecture, state management, complex interfaces, forms and validation, and backend/API integrations.
+- Additional strong competency: mobile development with React Native for production applications with complex user flows.
 - Domain focus: FinTech (fiat/crypto on/off-ramp, KYC, admin panels, analytics dashboards) and Web3/crypto (EVM wallets, dApp integrations, non-custodial flows).
 - 17+ years of total experience across engineering, process, and lead roles, combining delivery, quality, and technical leadership.
 - Actively exploring and applying AI-driven development: Dynamic Agent Skills, Agent Harness, multi-agent orchestration.
@@ -20,12 +21,12 @@ Senior Frontend Engineer
 
 ## Key Skills
 
-- Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Zod, MobX, Redux, Redux-Saga, PWA, Web Performance, Accessibility (a11y), Vue
+- Web Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Zod, MobX, Redux, Redux-Saga
+- Frontend Engineering: client application architecture, UI component systems, state management, complex interfaces, forms and validation, REST API integration, reusable components, Web Performance, Accessibility (a11y)
 - Mobile: React Native
-- Architecture & Product: client application architecture, state management, UI component systems, forms and validation, REST API integration, white-label solutions, analytics interfaces, code review, technical leadership
 - FinTech / Web3: Ethers.js, EVM, dApps, non-custodial wallets, KYC, on/off-ramp
 - Backend / Infra: Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Nginx, Prometheus, Grafana, Git, GitLab
-- Process & Tools: Agile, Kanban, sprint planning, estimation, task decomposition, Figma
+- Process & Tools: Agile, Kanban, sprint planning, estimation, task decomposition, code review, technical leadership, Figma
 
 ## Experience
 
@@ -33,7 +34,7 @@ Senior Frontend Engineer
 
 02/2025 – 05/2026
 
-- Developed and maintained fintech products for fiat/crypto on-off ramp flows, admin panels, analytics dashboards, and landing pages.
+- Developed and maintained fintech web products for fiat/crypto on/off-ramp, admin panels, analytics dashboards, and landing pages.
 - Designed critical user flows covering onboarding, KYC, transactions, analytics, lists, and filtering.
 - Defined web application architecture to meet SLA requirements: resilient backend/API integrations, isolation of domain modules, and data-quality controls at system boundaries.
 - Evolved a white-label solution with UI customization and support for multiple client brands from a single Git repository.
@@ -45,7 +46,7 @@ Technologies: React, MobX, Next.js, Zod, Tailwind
 
 05/2021 – 11/2024
 
-- Designed and evolved a non-custodial crypto wallet for EVM-compatible networks, covering transactions, signing, and status rendering.
+- Designed and evolved the client application of a non-custodial crypto wallet for EVM-compatible networks, covering transactions, signing, and status rendering.
 - Implemented an embedded dApp browser and integrations with dApps.
 - Expanded the product ecosystem with lending/compound-like applications, charity scenarios, and Humaniq ID as a KYC-like module.
 - Led the frontend direction: architectural decisions, code review, task decomposition, prioritization, and release readiness.

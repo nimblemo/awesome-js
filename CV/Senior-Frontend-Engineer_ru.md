@@ -12,7 +12,8 @@ Senior Frontend Engineer
 ## Профессиональное резюме
 
 - Senior Frontend Engineer с 8+ годами коммерческой web/mobile-разработки на React, Next.js, TypeScript и React Native.
-- Проектирую клиентские приложения и UI-системы: архитектура, state management, сложные интерфейсы, формы и валидация, надежные интеграции с backend/API.
+- Основная специализация - web frontend: клиентские приложения на React/Next.js, архитектура UI, state management, сложные интерфейсы, формы и валидация, интеграции с backend/API.
+- Дополнительная сильная компетенция - мобильная разработка на React Native для production-приложений со сложными пользовательскими сценариями.
 - Доменные зоны: FinTech (fiat/crypto on/off-ramp, KYC, админ-панели, аналитические дашборды) и Web3/crypto (EVM-кошельки, dApp integrations, non-custodial flows).
 - 17+ лет общего опыта, включая инженерные, процессные и lead-роли; умею сочетать delivery, качество и техническое лидерство.
 - Активно изучаю и применяю AI-driven development: Dynamic Agent Skills, Agent Harness, multi-agent orchestration.
@@ -20,12 +21,12 @@ Senior Frontend Engineer
 
 ## Ключевые навыки
 
-- Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Zod, MobX, Redux, Redux-Saga, PWA, Web Performance, Accessibility (a11y), Vue
+- Web Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Zod, MobX, Redux, Redux-Saga
+- Frontend Engineering: архитектура клиентских приложений, UI component systems, state management, сложные интерфейсы, формы и валидация, REST API integration, reusable components, Web Performance, Accessibility (a11y)
 - Mobile: React Native
-- Architecture & Product: архитектура клиентских приложений, state management, UI component systems, формы и валидация, REST API integration, white-label решения, аналитические интерфейсы, code review, technical leadership
 - FinTech / Web3: Ethers.js, EVM, dApps, non-custodial wallets, KYC, on/off-ramp
 - Backend / Infra: Node.js, Python, Golang, RabbitMQ, Elasticsearch, Redis, MSSQL, Docker, Kubernetes, Helm, Nginx, Prometheus, Grafana, Git, GitLab
-- Process & Tools: Agile, Kanban, sprint planning, estimation, task decomposition, Figma
+- Process & Tools: Agile, Kanban, sprint planning, estimation, task decomposition, code review, technical leadership, Figma
 
 ## Опыт работы
 
@@ -33,7 +34,7 @@ Senior Frontend Engineer
 
 02/2025 – 05/2026
 
-- Разрабатывал и поддерживал финтех-продукты для fiat/crypto on/off-ramp, административных панелей, аналитических дашбордов и лендингов.
+- Разрабатывал и поддерживал fintech web-продукты для fiat/crypto on/off-ramp, административных панелей, аналитических дашбордов и лендингов.
 - Проектировал критичные пользовательские потоки: onboarding, KYC, транзакции, аналитика, списки и фильтрация.
 - Определял архитектуру web-приложений под SLA: устойчивые интеграции с backend/API, изоляция доменных модулей и контроль качества данных на границе.
 - Развивал white-label решение: кастомизация UI и поддержка нескольких клиентских брендов через единый Git-репозиторий.
@@ -45,7 +46,7 @@ Senior Frontend Engineer
 
 05/2021 – 11/2024
 
-- Спроектировал и развивал некастодиальный криптокошелек для EVM-совместимых сетей: транзакции, подпись и отображение статусов.
+- Спроектировал и развивал клиентское приложение некастодиального криптокошелька для EVM-совместимых сетей: транзакции, подпись и отображение статусов.
 - Реализовал встроенный dApp-браузер и интеграцию с dApps.
 - Развивал продуктовую экосистему: lending/compound-like приложения, благотворительные сценарии и Humaniq ID как KYC-подобный модуль.
 - Руководил фронтенд-направлением: архитектурные решения, code review, декомпозиция задач, приоритизация и готовность к релизам.
@@ -58,7 +59,7 @@ Senior Frontend Engineer
 
 08/2019 – 04/2021 | Нижний Новгород
 
-- Спроектировал фронтенд-архитектуру системы управления строительными проектами на базе BIM-моделей.
+- Спроектировал frontend-архитектуру системы управления строительными проектами на базе BIM-моделей.
 - Реализовал древовидный UI для управления BIM-моделями и унифицированные модели фильтрации сложных данных.
 - Внедрил PWA-паттерны: офлайн-кэширование и сценарии graceful degradation для более устойчивой работы приложения.
 - Планировал спринты, распределял нагрузку и лидировал выполнение технически сложных задач.
