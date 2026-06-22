@@ -14,8 +14,6 @@ Senior Frontend Engineer
 - Senior Frontend Engineer с 8+ годами коммерческой web/mobile-разработки на React, Next.js, TypeScript и React Native.
 - Основная специализация - web frontend: клиентские приложения на React/Next.js, архитектура, UI, state management, сложные интерфейсы, формы и валидация, интеграции с backend/API.
 - Мобильная разработка на React Native для production-приложений со сложными пользовательскими сценариями.
-- Доменные зоны: FinTech (fiat/crypto on/off-ramp, KYC, админ-панели, аналитические дашборды) и Web3/crypto (EVM-кошельки, dApp integrations, non-custodial flows).
-- 17+ лет общего опыта, включая инженерные, процессные и lead-роли; умею сочетать delivery, качество и техническое лидерство.
 - Активно изучаю и применяю AI-driven development: Dynamic Agent Skills, Agent Harness, multi-agent orchestration.
 
 ## Ключевые навыки
@@ -90,8 +88,8 @@ Senior Frontend Engineer
 
 - Преподавал JavaScript на факультете дополнительного образования.
 - Адаптировал англоязычные курсы на русский язык и оформил учебные материалы в открытых репозиториях:
-  - <https://github.com/nimblemo/js-base-course>
-  - <https://github.com/nimblemo/js-extend-course>
+  - https://github.com/nimblemo/js-base-course
+  - https://github.com/nimblemo/js-extend-course
 
 ### Артинвест 52 — Fullstack Engineer (WebRTC)
 

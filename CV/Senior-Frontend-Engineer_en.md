@@ -90,8 +90,8 @@ Technologies: React, Redux, Redux-Saga; ASP.NET MVC, Node.js, Python, Golang; MS
 
 - Taught JavaScript at the continuing education faculty.
 - Adapted English-language courses to Russian and published the materials in open repositories:
-  - <https://github.com/nimblemo/js-base-course>
-  - <https://github.com/nimblemo/js-extend-course>
+  - https://github.com/nimblemo/js-base-course
+  - https://github.com/nimblemo/js-extend-course
 
 ### Artinvest 52 — Fullstack Engineer (WebRTC)
 
