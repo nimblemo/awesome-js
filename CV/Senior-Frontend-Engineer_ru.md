@@ -40,7 +40,7 @@ Senior Frontend Engineer
 - Определял архитектуру web-приложений под SLA: устойчивые интеграции с backend/API, изоляция доменных модулей и контроль качества данных на границе.
 - Преобразовывал Figma-макеты в адаптивные экраны и переиспользуемые UI-компоненты (Storybook).
 
-Технологии: React, Next.js 14+ (App Router), TanStack Query, MobX, Zod, Tailwind, MUI, Firebase, Fastlane, LogRocket, Figma, Miro
+Технологии: React, Next.js 14+ (App Router), TanStack Query, MobX, Zod, Tailwind, MUI, Firebase, Fastlane, LogRocket, Figma
 
 ### Humaniq — Tech Lead Frontend / React Native
 
@@ -82,13 +82,45 @@ Senior Frontend Engineer
 
 Технологии: React, Redux, Redux-Saga; ASP.NET MVC, Node.js, MSSQL, Elasticsearch, Docker, Kubernetes
 
-## Активности
-
-### Преподавание JavaScript — ННГУ им. Н.И. Лобачевского
+### ННГУ им. Н.И. Лобачевского — Преподаватель JavaScript
 
 05.2017 – 07.2018
 
-- Преподавал JavaScript на факультете дополнительного образования, адаптировал 2 англоязычных курса: открытые репозитории с учебными материалами на GitHub.
+- Преподавал JavaScript на факультете дополнительного образования.
+- Адаптировал англоязычные курсы на русский язык и оформил учебные материалы в открытых репозиториях:
+  - https://github.com/nimblemo/js-base-course
+  - https://github.com/nimblemo/js-extend-course
+
+### Артинвест 52 — Fullstack Engineer (WebRTC)
+
+04.2017 – 12.2017
+
+- Исследовал и внедрял WebRTC/streaming-решения, интегрировал серверные компоненты.
+
+Технологии: Janus, WebRTC, Nginx, SignalR, JavaScript, MSSQL
+
+### Солитон — Web Developer
+
+07.2015 – 08.2016
+
+- Разрабатывал и поддерживал веб-приложения и хостинг-инфраструктуру.
+
+Технологии: PHP MVC, JavaScript, HTML, CSS, LESS, AJAX
+
+## Дополнительный опыт (до разработки)
+
+АО «Монди СЛПК» — аудитор FSC / ISO 14001 (12.2010 – 07.2015)
+
+- Проектирование бизнес‑процессов и актуализация стандартов.
+- Построение системы снижения отклонений в технологических процессах и аналитических инструментов по метрикам.
+
+АО «Монди СЛПК» — инженер по оптимизации (03.2010 – 12.2010)
+
+- Участие в проекте оптимизации производственной деятельности (по принципам MC'Kinsey).
+
+ООО «Финлеском» (филиал) — инженер‑механик (06.2008 – 03.2010)
+
+- Планирование ТО/ППР, снабжение запчастями, составление ТЗ на проекты.
 
 ## Образование
 
@@ -98,9 +130,22 @@ Senior Frontend Engineer
 
 ## Курсы
 
-- Разработка смарт-контрактов в сети Ethereum — Stepic, 2021
+- Разработка смарт‑контрактов в сети Ethereum — Stepic, 2021
 - DevOps — express42 / OTUS, 2020
 - Архитектор высоконагруженных систем — OTUS, 2020
+- Data Scientist — МФТИ и Яндекс / Coursera, 2016
+- SGS, Internal Audit of Integrated System Management (ISO 9001, ISO 14001, OHSAS 18001) — 2014
+- BPMN 2.0 notation — bpmntraining.ru, 2014
+
+## Сертификаты
+
+- [C++ programming language — 2016](https://stepic.org/certificate/20f4006a719e647e0e019b54f00a01cdb1f7f157.pdf)
+- [Прикладные задачи анализа данных — 2016](https://www.coursera.org/account/accomplishments/verify/8ETWFNSG686F)
+- [Построение выводов по данным — 2016](https://www.coursera.org/account/accomplishments/certificate/A8RF67TEW8E4)
+- [Поиск структуры в данных — 2016](https://www.coursera.org/account/accomplishments/records/387H499BVGSH)
+- [Обучение на размеченных данных — 2016](https://www.coursera.org/account/accomplishments/records/MBJAEJPAJXN8)
+- [Математика и Python для анализа данных — 2016](https://www.coursera.org/account/accomplishments/records/TGY5W644Y6WJ)
+- [Введение в архитектуру компьютера — 2016](https://stepic.org/certificate/a0faa299ecbf3d021d58fa2e0ea4f7086375be3f.pdf)
 
 ## Языки
 
